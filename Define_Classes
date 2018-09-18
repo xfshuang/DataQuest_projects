@@ -1,0 +1,37 @@
+1) To create a class in Python, use the keyworld 'class'  followed by the desired class name in CamelCase.
+
+class Dataset:
+  def __init__(self):
+    self.type ='csv'
+    
+#use __init__() method defined to instantiate the object.
+#self variable refers to the created object so you can interact with the instance data
+
+
+
+2) To create a dataset object
+
+new_dataset = Dataset()
+
+#new_dataset variable refers tp an instance pf the Dataset class
+
+
+
+3) To add data to dataset object on instantiation, have to add an additional argument to the __init__() method. (Note: Keep self variable)
+
+class Dataset:
+  def __init__(self, data):
+    self.type = 'csv
+    self.data = data
+
+f= open('nfl.csv','r')
+csvreader = csv.reader(f)
+nfl_data = list(csvreader)
+#read data from csv
+
+nfl_dataset = Dataset(nfl_data)
+#create an instance class pass in nfl_data to the __init__() method.
+# print (nfl_dataset) returns to the object id
+
+dataset_data = nfl_dataset.data
+#print (dataset_data) returns to the data from csv
