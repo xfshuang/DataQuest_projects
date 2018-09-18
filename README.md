@@ -1,2 +1,2 @@
 # DataQuest_projects
-To store my online ocing practices.
+To store my online coding practices excerises.
