@@ -1,4 +1,4 @@
-# Python project from DataQuest
+# Python project(s) from DataQuest
 ## Guided Project_ Explore U.S. Births
 This project contains data behind the story Some People Are Too Superstitious To Have A Baby On Friday The 13th.
 
