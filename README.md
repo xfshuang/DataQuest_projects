@@ -10,7 +10,7 @@ There are two files:
 
 
 
-## Project 2: [Guided Project_ Explore U.S. Births](https://github.com/xfshuang/Python-Projects-/blob/master/Guided%20Project-%20Exploring%20Gun%20Deaths%20in%20the%20US.ipynb)
+## Project 2: [Guided Project- Exploring Gun Deaths in the US](https://github.com/xfshuang/Python-Projects-/blob/master/Guided%20Project-%20Exploring%20Gun%20Deaths%20in%20the%20US.ipynb)
 
 The dataset came from [FiveThirtyEight](https://fivethirtyeight.com/), and can be found [here](https://github.com/fivethirtyeight/guns-data). The dataset is stored in the [guns.csv](https://github.com/xfshuang/Python-Projects-/blob/master/guns.csv) file. It contains information on gun deaths in the US from 2012 to 2014. Each row in the dataset represents a single fatality.
 
